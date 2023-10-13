@@ -1,0 +1,8 @@
+
+N
+java:S5261"1Add explicit curly braces to avoid dangling else.(Î€êş8îï‡¢1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ô¬Ãşùÿÿÿÿ8öï‡¢1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÈäÓ8öï‡¢1
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(¨öø8öï‡¢1
+U	java:S106""9Replace this use of System.out or System.err by a logger.(ÑÔ¯«8öï‡¢1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(¼ÇîŞşÿÿÿÿ8öï‡¢1
