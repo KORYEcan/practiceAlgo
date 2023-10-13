@@ -47,5 +47,3 @@ K
 src/basic/Alternative1.java,3\3\336a962bc48a44636bce88e5468e31ecf809a872
 G
 src/list/boj_11728.java,0\7\07d7bad9bfa5d4ec204ffef8cff3329fac5b3787
-E
-src/stack/IStack.java,a\c\ace7eeb53c073fcf077a9b4a291ceb3cb0abe591

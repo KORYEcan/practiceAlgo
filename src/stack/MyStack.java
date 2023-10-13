@@ -1,5 +1,6 @@
 package stack;
 
+
 public class MyStack<T>  implements  IStack<T> {
 
   private int size;
