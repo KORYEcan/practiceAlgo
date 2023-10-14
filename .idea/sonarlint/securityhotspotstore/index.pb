@@ -47,3 +47,13 @@ K
 src/basic/Alternative1.java,3\3\336a962bc48a44636bce88e5468e31ecf809a872
 G
 src/list/boj_11728.java,0\7\07d7bad9bfa5d4ec204ffef8cff3329fac5b3787
+F
+src/stack/boj9012.java,7\7\77f761eb3b3c28de396b05ea50a99797e40412f4
+P
+ src/list/MyDoubleLinkedList.java,b\6\b6e1ae7832ed4bd3df32c52238b809a7f968782d
+J
+src/list/MyLinkedList.java,0\b\0b9d4b888039b5814a33c3bee549ae717677395c
+E
+src/stack/IStack.java,a\c\ace7eeb53c073fcf077a9b4a291ceb3cb0abe591
+F
+src/stack/MyStack.java,c\7\c7a89daa5191bed4ddadb89191c74ba01af065d0
