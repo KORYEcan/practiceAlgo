@@ -57,3 +57,11 @@ E
 src/stack/IStack.java,a\c\ace7eeb53c073fcf077a9b4a291ceb3cb0abe591
 F
 src/stack/MyStack.java,c\7\c7a89daa5191bed4ddadb89191c74ba01af065d0
+I
+src/list/MyArrayList.java,b\4\b4c56ac544bc3d364e44e63d05ab8bd2810d0dab
+E
+src/hash/boj1920.java,e\f\ef90e8c44a2c8a28552ef1be5382e96c76696fb6
+O
+src/hash/MyLinkedHashTable.java,4\f\4f20e258aa0004b2ef9774bc7f05315f033edd20
+F
+src/hash/HashTest.java,9\3\934945ef16fab6db513c97cb2324fa0e305f15e1
